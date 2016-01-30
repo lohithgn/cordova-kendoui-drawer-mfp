@@ -3,13 +3,13 @@
 This is a template for developing Cordova based Hybrid Mobile Application for IBM MobileFirst platform.
 This template provides Kendo UI Mobile control set as the UI layer for your cordova application. 
 
-When you use this template it creates a blank cordova application and includes Kendo UI framework in your application. As
-part of the app you will get a single view/screen called Home View. You can use this 
+When you use this template it creates a cordova application and includes Kendo UI framework in your application. As
+part of the app you will get a Home, Settigs and Contacts screen.  You can use this 
 as a starting point for your development. After creating your app using this 
 template, you can add additional screens as per your needs.
 
 <div align=center>
-    <img  height=300 src="http://content.screencast.com/users/Kashyapa/folders/TACO-CLI-ScreenShots/media/d68dbc1c-b55b-419b-b54f-bd4e71649cc5/TACOKendoUIBlank.png" />
+    <img  height=300 src="http://content.screencast.com/users/Kashyapa/folders/TACO-CLI-ScreenShots/media/9c642502-85d5-4f4b-9b8f-65c2c8ea4fa6/KendiUIDrawerTemplate.png" />
 </div>
 
 You can know more about Kendo UI Mobile Controls here: http://www.telerik.com/kendo-ui/open-source-core
@@ -20,7 +20,7 @@ You can know more about Kendo UI Mobile Controls here: http://www.telerik.com/ke
 
 First, clone this repo on your system. Lets say c:\templates\cordova-kendoui-blank-mfp
 
-<blockquote>git clone https://github.com/lohithgn/cordova-kendoui-blank-mfp.git</blockquote>
+<blockquote>git clone https://github.com/lohithgn/cordova-kendoui-drawer-mfp.git</blockquote>
 
 Make a note of the folder where you will clone it. This folder will be used to provide the Kendo UI template for MFP Cordova Create command.
 
