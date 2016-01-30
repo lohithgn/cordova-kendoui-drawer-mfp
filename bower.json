@@ -1,0 +1,10 @@
+{
+  "name": "cordova-kendoui-drawer-mfp",
+  "authors": [
+    "kashyapa78@hotmail.com"
+  ],
+  "description": "IBM MobileFirstPlatform Cordova Application with Kendo UI Mobile - Drawer Template",
+  "dependencies": {
+      "kendo-ui-appbuilder-core": "*"
+  }
+}
