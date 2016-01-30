@@ -1,4 +1,4 @@
-<h1>About Cordova Kendo UI Drawer MFP Template </h1>
+<h1>About MobileFirst Cordova Kendo UI Drawer Template </h1>
 
 This is a template for developing Cordova based Hybrid Mobile Application for IBM MobileFirst platform.
 This template provides Kendo UI Mobile control set as the UI layer for your cordova application. 
